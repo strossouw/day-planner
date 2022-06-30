@@ -21,6 +21,7 @@ Time of day is calculated and compared against hour block.
 This will determine if the hour is past, current, or future.
 It will apply attributes to the time-block as appropriate.
 
+![image](https://user-images.githubusercontent.com/105831699/176594415-ac0bab48-f663-4fa0-99ea-f19fe7cbe07b.png)
 
 
 
